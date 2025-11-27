@@ -42,11 +42,9 @@ https://makerworld.com/en/models/2033633
 ---
 
 ## Printing Info
-- **Material:** PLA or TPU  
-- **Layer height:** 0.20 mm  
-- **Infill:** 15%  
+- **Material:** ASA  
 - **Supports:** Extra to prevent warping  
-- **Print time:** ~12 hours  
+- **Print time:** ~13 hours  
 
 ---
 
